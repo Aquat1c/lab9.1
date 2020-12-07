@@ -1,0 +1,4 @@
+﻿  UnitTest1.cpp
+C:\Users\Aquatic\source\repos\9.1.1\9.1.1\9.1.1.cpp(44,6): warning C4101: 'kurs': unreferenced local variable
+     Creating library C:\Users\Aquatic\source\repos\9.1.1\Debug\UnitTest1.lib and object C:\Users\Aquatic\source\repos\9.1.1\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> C:\Users\Aquatic\source\repos\9.1.1\Debug\UnitTest1.dll
